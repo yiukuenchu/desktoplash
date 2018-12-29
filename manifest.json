@@ -1,6 +1,5 @@
 {
     "manifest_version": 2,
-  
     "name": "desktoplash",
     "description": "3rd Party Unsplash chrome extension for changing wallpaper.",
     "version": "1.0",
