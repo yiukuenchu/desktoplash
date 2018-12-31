@@ -4,6 +4,7 @@
     "description": "3rd Party Unsplash chrome extension for changing wallpaper.",
     "version": "1.0",
   
+    
     "permissions": [
         "activeTab",
         "declarativeContent",
