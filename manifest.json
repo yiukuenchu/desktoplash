@@ -1,13 +1,14 @@
 {
     "manifest_version": 2,
     "name": "desktoplash",
-    "description": "3rd Party Unsplash chrome extension for changing wallpaper.",
+    "description": "非官方Unsplash图片获取插件",
     "version": "1.0",
   
     "permissions": [
         "activeTab",
         "declarativeContent",
-        "storage"
+        "storage",
+        "background"
     ],
     "background": {
         "scripts": ["background.js"],
