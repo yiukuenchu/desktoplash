@@ -21,6 +21,7 @@
 * 用户登录
 * 关键词搜索图片
 * 选择图片大小
+* 发布至 Chrome 插件商店
 
 ## License
 [MIT](https://github.com/yiukuenchu/desktoplash/blob/master/LICENSE)
