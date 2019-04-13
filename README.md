@@ -25,4 +25,3 @@
 
 ## License
 [MIT](https://github.com/yiukuenchu/desktoplash/blob/master/LICENSE)
-
