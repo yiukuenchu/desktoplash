@@ -3,3 +3,8 @@
     width: 400px;
     height: 100%;
 }
+
+.fadeout {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
