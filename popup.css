@@ -1,4 +1,4 @@
-.loader {
+/* .loader {
     position: fixed;
     width: 400px;
     height: 100%;
@@ -7,4 +7,12 @@
 .fadeout {
     opacity: 0;
     filter: alpha(opacity=0);
+} */
+.btn{
+    display: block;
+    background: #333;
+    color: #fff;
+    width: 30%;
+    margin: 5px 0;
+
 }
