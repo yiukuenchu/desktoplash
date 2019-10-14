@@ -6,7 +6,6 @@
 ![love](https://img.shields.io/badge/made%20with-Love-orange.svg)
 ![GitHub](https://img.shields.io/github/license/yiukuenchu/desktoplash.svg)
   
-
 ## 安装
 1. Clone 本项目至本地
 2. 打开 Chrome 插件中心并打开右上角开发者模式 （进入插件中心可在浏览器输入 chrome://extensions/）
